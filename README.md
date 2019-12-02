@@ -14,7 +14,7 @@ Inslall python:
 
 Install requrements:
 
-> pip install --user --requirement requirements.txt 
+> pip3 install --user --requirement requirements.txt 
 
 **To run the code you need to download Amazon.Music.tar and extract files**
 
