@@ -8,10 +8,10 @@ On Windows, the command line is known as the command prompt which can be accesse
 
 For Mac and Linux open Terminal
 
-pip install --user --requirement requirements.txt
+> pip install --user --requirement requirements.txt `
 
 To run the code you need to download Amazon.Musiz.tar and extract files 
 
 In the terminal go to the directory where the code resides and run the script with a keyword python followed by the script name.
 
-python3 RecommenderSystem.py
+> python3 RecommenderSystem.py 
