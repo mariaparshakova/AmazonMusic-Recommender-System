@@ -24,4 +24,4 @@ In the terminal go to the directory where the code resides and run the script wi
 
 For usage run the next command:
 
-> python3 RecommenderSystem.py 
+> python3 main.py --path path/to/RecommenderSystem.py 
