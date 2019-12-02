@@ -4,6 +4,12 @@ The content based filtering analyses the music from Amason base to find songs wh
 
 to run a python file you need to install requirements:
 
+On Windows, the command line is known as the command prompt which can be accessed by clicking the start menu and search for command prompt. Another way is by going to the Run dialog box type cmd and press enter (Start menu −> Run and type cmd).
+
+For Mac and Linux open Terminal
+
 pip install --user --requirement requirements.txt
+
+In the terminal go to the directory where the code resides and run the script with a keyword python followed by the script name.
 
 python3 RecommenderSystem.py
