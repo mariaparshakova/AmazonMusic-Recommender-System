@@ -16,7 +16,7 @@ Install requrements:
 
 > pip install --user --requirement requirements.txt 
 
-**To run the code you need to download Amazon.Musiz.tar and extract files**
+**To run the code you need to download Amazon.Music.tar and extract files**
 
 In the terminal go to the directory where the code resides and run the script with a keyword python followed by the script name.
 
